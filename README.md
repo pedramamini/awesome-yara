@@ -171,6 +171,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - Yara rules for Threat Hunting sessions
 * [TjadaNel Rules](https://github.com/tjnel/yara_repo)
     - Small collection of malware rules.
+* [UNK_DeadDrop Companion](https://github.com/KrasForge/unk-deaddrop-companion)
+    - Defensive research repository with a parse-only JavaScript AST scanner, four experimental YARA rules, six Sigma rules, and inert fixtures.
 * [VectraThreatLab Rules](https://github.com/VectraThreatLab/reyara)
     - YARA rules for identifying anti-RE malware techniques.
 * [Volexity - Threat-Intel](https://github.com/volexity/threat-intel) :sparkles: :gem:
