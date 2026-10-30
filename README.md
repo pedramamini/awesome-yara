@@ -459,6 +459,7 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - Yobi is a basic firefox extension which allows to run public or private YARA rules on all scripts and pages rendered by the browser.
 * [statiStrings](https://github.com/Sh3llyR/statiStrings)
     - Strings statistics calculator for YARA rules.
+- [OshoosiClaw](https://github.com/oyesanyf/OshoosiClaw) - Rust EDR and Universal Binary Inspector featuring native `yara-x` live memory/file scanning, automated YARA rule synthesis, and 1,600+ multi-platform detection signatures.
 
 ## Services
 
