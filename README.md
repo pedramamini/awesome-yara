@@ -216,6 +216,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
     - Generate YARA rules to match terms against base64-encoded data.
 * [bincapz](https://github.com/chainguard-dev/bincapz)
     - Enumerates program capabilities and malicious behaviors using fragment analysis..
+* [binkeep](https://github.com/kano92-dir/binkeep) :sparkles:
+    - Runs YARA rules (libyara compiled to WebAssembly, with the pe, elf and math modules) on PE, ELF and Mach-O files inside the browser, alongside disassembly, strings and imports. Nothing is uploaded.
 * [CAPE: Config And Payload Extraction](https://github.com/kevoreilly/CAPEv2) :eyes:
     - Extension of Cuckoo specifically designed to extract payloads and configuration from malware. CAPE can detect a number of malware techniques or behaviours, as well as specific malware families, from its initial run on a sample. This detection then triggers a second run with a specific package, in order to extract the malware payload and possibly its configuration, for further analysis.
 * [CCCS-Yara](https://github.com/CybercentreCanada/CCCS-Yara)
