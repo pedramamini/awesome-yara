@@ -45,6 +45,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
 
 ## Rules
 
+* [Agentic Attack Detections](https://github.com/ThreatDefence/agentic-attack-detections) :sparkles:
+    - YARA rules for AI agent attack frameworks (ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero): operator consoles, implants, agent prompts and probe artifacts. The same repository holds Sigma, Suricata, Zeek and KQL content.
 * [AlienVault Labs Rules](https://github.com/AlienVault-Labs/AlienVaultLabs/tree/master/malware_analysis)
     - Collection of tools, signatures, and rules from the researchers at [AlienVault Labs](https://cybersecurity.att.com/blogs/labs-research). Search the repo for .yar and .yara extensions to find about two dozen rules ranging from APT detection to generic sandbox / VM detection. Last updated in January of 2016.
 * [anyrun rules](https://github.com/anyrun/YARA)
