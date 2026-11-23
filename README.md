@@ -462,6 +462,8 @@ Rule collections from prior years of the challenge: [100 Days of YARA](https://g
 
 ## Services
 
+* [DocBunker File Scanner](https://docbunker.app/en/tools/file-scanner)
+    - Free in-browser scanner that runs a selection of YARA-Forge Core rules locally (Boreal engine compiled to WebAssembly) on files up to 25 MiB, without uploading them.
 * [Hybrid Analysis YARA Search](https://www.hybrid-analysis.com/yara-search)
     - YARA search / hunting from CrowdStrike / Hybrid Analysis, powered by Falcon MalQuery.
 * [InQuest Labs](https://labs.inquest.net) :sparkles: :gem:
